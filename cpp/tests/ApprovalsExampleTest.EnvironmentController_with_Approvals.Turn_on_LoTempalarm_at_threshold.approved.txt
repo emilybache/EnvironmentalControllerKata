@@ -1,0 +1,6 @@
+heater on: 1
+blower on: 1
+cooler on: 0
+hi temp alarm: 0
+lo temp alarm: 1
+
