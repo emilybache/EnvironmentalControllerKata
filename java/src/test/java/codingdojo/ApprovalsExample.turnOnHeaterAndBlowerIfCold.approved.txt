@@ -1,0 +1,5 @@
+Heater on: true
+Blower on: true
+Cooler on: false
+Hi temp alarm on: false
+Lo temp alarm on: false
